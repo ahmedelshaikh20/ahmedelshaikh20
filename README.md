@@ -4,7 +4,7 @@
 
 🎓 I am Ahmed Salah, a **Software Engineer** (specializing in **Android Development**) 
 
-I graduated from German University in Cairo   majoring **Computer Science & Engineering** in mid-2022.
+I graduated from German University in Cairo   majoring **Computer Science & Engineering** in end-2022.
 
 I am enthusiastic about learning new technology. In 2022, I started my journey with Android and started by learning **Kotlin**, **Dependency Injection**, **Room**, **MVVM Architecture**.
 
