@@ -8,7 +8,6 @@ I graduated from German University in Cairo   majoring **Computer Science & Engi
 
 I am enthusiastic about learning new technology. In 2022, I started my journey with Android and started by learning **Kotlin**, **Dependency Injection**, **Room**, **MVVM Architecture**.
 
-🎸 Outside the tech world too, I enjoy pushing myself to develop new skills. My hobbies range from **playing padel**, **Gym**, **powerlifting**.
 
 ### Languages
 
