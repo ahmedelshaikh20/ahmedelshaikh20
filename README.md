@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Ahmed Salah, a **Software Engineer** (specializing in **Android Development**) 
+I am Ahmed Salah, a **Software Engineer** (specializing in **Android Development**) 
 
 I graduated from German University in Cairo   majoring **Computer Science & Engineering** in end-2022.
 
