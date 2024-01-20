@@ -14,16 +14,16 @@ I am enthusiastic about learning new technology. In 2022, I started my journey w
 
 ### Languages
 
-![Kotlin](https://img.shields.io/badge/Kotlin-3178C6?style=for-the-badge&logo=kotlin&logoColor=white)
-![JetPack Compose](https://img.shields.io/badge/jetpack%20compose-3776AB?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![XML](https://img.shields.io/badge/xml-3178C6?style=for-the-badge&logo=xml&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
+![Kotlin](https://img.shields.io/badge/Kotlin-3178C6?style=flat&logo=kotlin)&nbsp;
+![JetPack Compose](https://img.shields.io/badge/jetpack%20compose-3776AB?style=flat&logo=jetpackcompose)&nbsp;
+![XML](https://img.shields.io/badge/xml-3178C6?style=flat&logo=xml)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
 ### FrameWorks
 
-![Firebase](https://img.shields.io/badge/firebase-3776AB?style=for-the-badge&logo=firebase&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit-3776AB?style=for-the-badge&logo=retrofit&logoColor=white)
-![Glide](https://img.shields.io/badge/glide-3776AB?style=for-the-badge&logo=glide&logoColor=white)
-![Hilt](https://img.shields.io/badge/hilt-3776AB?style=for-the-badge&logo=hilt&logoColor=white)
-![Room Database](https://img.shields.io/badge/room%20database-3776AB?style=for-the-badge&logo=room%20database&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-3776AB?style=flat&logo=firebase)
+![Retrofit](https://img.shields.io/badge/Retrofit-3776AB?style=flat&logo=retrofit)
+![Glide](https://img.shields.io/badge/glide-3776AB?style=flat&logo=glide)
+![Hilt](https://img.shields.io/badge/hilt-3776AB?style=flat&logo=hilt)
+![Room Database](https://img.shields.io/badge/room%20database-3776AB?style=flat&logo=room%20database)
