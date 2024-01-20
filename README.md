@@ -12,15 +12,15 @@ I graduated from German University in Cairo   majoring **Computer Science & Engi
 I am enthusiastic about learning new technology. In 2022, I started my journey with Android and started by learning **Kotlin**, **Dependency Injection**, **Room**, **MVVM Architecture**.
 
 
-### Languages
+## Languages
 
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white)&nbsp;
 ![JetPack Compose](https://img.shields.io/badge/jetpack%20compose-3776AB?style=flat&logo=jetpackcompose)&nbsp;
 ![XML](https://img.shields.io/badge/xml-3178C6?style=flat&logo=xml)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
-### FrameWorks
+## FrameWorks
 
 ![Firebase](https://img.shields.io/badge/firebase-3776AB?style=flat&logo=firebase)
 ![Retrofit](https://img.shields.io/badge/Retrofit-3776AB?style=flat&logo=retrofit)
