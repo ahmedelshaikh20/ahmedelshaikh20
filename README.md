@@ -26,3 +26,6 @@ I am enthusiastic about learning new technology. In 2022, I started my journey w
 ![Glide](https://img.shields.io/badge/glide-3776AB?style=flat&logo=glide)
 ![Hilt](https://img.shields.io/badge/hilt-3776AB?style=flat&logo=hilt)
 ![Room Database](https://img.shields.io/badge/room%20database-3776AB?style=flat&logo=room%20database)
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedelshaikh20&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Most used languages" />
