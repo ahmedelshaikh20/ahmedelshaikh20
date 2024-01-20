@@ -14,7 +14,7 @@ I am enthusiastic about learning new technology. In 2022, I started my journey w
 
 ### Languages
 
-![Kotlin](https://img.shields.io/badge/Kotlin-3178C6?style=flat&logo=kotlin)&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 ![JetPack Compose](https://img.shields.io/badge/jetpack%20compose-3776AB?style=flat&logo=jetpackcompose)&nbsp;
 ![XML](https://img.shields.io/badge/xml-3178C6?style=flat&logo=xml)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
