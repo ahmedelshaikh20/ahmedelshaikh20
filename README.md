@@ -1,6 +1,6 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0041FBE1&background=0B2AFF00&center=true&random=false&width=435&lines=Software+Android+Engineer" alt="Typing SVG" /></a></p> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0041FBE1&background=0B2AFF00&center=true&random=false&width=435&lines=Software+Engineer" alt="Typing SVG" /></a></p> 
 
 ## 🚀 About Me
 
