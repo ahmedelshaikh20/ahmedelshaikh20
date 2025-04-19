@@ -1,14 +1,18 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0041FBE1&background=0B2AFF00&center=true&random=false&width=435&lines=Software+Engineer" alt="Typing SVG" /></a></p> 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0041FBE1&background=0B2AFF00&center=true&random=false&width=435&lines=Software+Engineer;Lifelong+Learner;Human" alt="Typing SVG" />
+  </a>
+</p>
 
 ## 🚀 About Me
 
-I am Ahmed Salah, a **Software Engineer** (specializing in **Android Development**) 
+I'm **Ahmed Salah**, a passionate **Software Engineer** and current **Master’s student** based in **Germany**, with a solid background in **Computer Science & Engineering**.
 
-I graduated from German University in Cairo   majoring **Computer Science & Engineering** in end-2022.
+I enjoy working across the tech stack and love building software that is clean, scalable, and impactful. I’m driven by curiosity and the desire to solve real-world problems through technology.
 
-I am enthusiastic about learning new technology. In 2022, I started my journey with Android and started by learning **Kotlin**, **Dependency Injection**, **Room**, **MVVM Architecture**.
+Right now, I’m continuing my academic journey while staying hands-on with development projects, constantly learning, and embracing new tools, frameworks, and ideas. Whether it’s contributing to something meaningful or just tinkering with something new, I’m always up for a challenge.
 
 
 ## Languages
