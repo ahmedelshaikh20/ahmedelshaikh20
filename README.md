@@ -8,9 +8,9 @@
 
 ## 🚀 About Me
 
-I'm **Ahmed Salah**, a passionate **Software Engineer** and current **Master’s student** based in **Germany**, with a solid background in **Computer Science & Engineering**.
+I'm **Ahmed Salah**, a passionate **Software Engineer** , with a solid background in **Computer Science & Engineering**.
 
-I enjoy working across the tech stack and love building software that is clean, scalable, and impactful. I’m driven by curiosity and the desire to solve real-world problems through technology.
+I enjoy working across the tech stacks and love building software that is clean, scalable, and impactful. I’m driven by curiosity and the desire to solve real-world problems through technology.
 
 Right now, I’m continuing my academic journey while staying hands-on with development projects, constantly learning, and embracing new tools, frameworks, and ideas. Whether it’s contributing to something meaningful or just tinkering with something new, I’m always up for a challenge.
 
